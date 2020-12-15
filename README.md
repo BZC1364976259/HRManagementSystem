@@ -5,4 +5,4 @@ Systems Design and Development Term II, University of Northampton
 
 <hr>
 
-![HR Management System Image](https://diwaslamsal.com.np/assets/img/project_images/1597583032.8978-Logo-Captureasda.PNG)
+![HR Management System Image](https://diwaslamsal.github.io/HRManagementSystem/HRManagement.png)
